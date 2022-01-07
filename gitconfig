@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mrlogin@mailbox.org
+	name = Martin Reichardt
